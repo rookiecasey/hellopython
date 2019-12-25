@@ -1,2 +1,4 @@
 # hellopython
-learn something everyday
+Learn something everyday.
+Practice what you preach.
+Practice makes perfect.
